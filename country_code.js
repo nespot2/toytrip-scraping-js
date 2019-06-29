@@ -1,4 +1,4 @@
-const {go, map ,L,takeAll ,curry ,log,tail} = require("fxjs2");
+const {go ,L,takeAll ,curry} = require("fxjs2");
 const axios = require('axios');
 const $ = require('cheerio');
 
